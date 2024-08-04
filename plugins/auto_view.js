@@ -63,6 +63,11 @@ const toSend1 = conn.user.id
 }
 
 handler.all = async function (m, { conn, text }) {
+
+      if (m.isBaileys && m.fromMe) {
+        return !0;
+      }
+  
    // await console.log(m.message.reactionMessage)
    
    if (m.message && m.quoted && m.quoted.message && m.text.includes('👁') && m.quoted.message.viewOnceMessageV2Extension || m.message && m.quoted && m.quoted.message && m.quoted.message.viewOnceMessageV2) {
