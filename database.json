@@ -1,0 +1,469 @@
+{
+  "users": {
+    "94777611095@s.whatsapp.net": {
+      "exp": 1867,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "120363279518973310@g.us": {
+      "exp": 3,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "14192093396@s.whatsapp.net": {
+      "exp": 11,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94702978512@s.whatsapp.net": {
+      "exp": 1514,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94771588281@s.whatsapp.net": {
+      "exp": 432,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94702978513@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94714888281@s.whatsapp.net": {
+      "exp": 13,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94785838760@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94741218560@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94762713580@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "19099097889@s.whatsapp.net": {
+      "exp": 1261,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94743592873@s.whatsapp.net": {
+      "exp": 64,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94774559751@s.whatsapp.net": {
+      "exp": 218,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94729113616@s.whatsapp.net": {
+      "exp": 42,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94767745809@s.whatsapp.net": {
+      "exp": 677,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94703669885@s.whatsapp.net": {
+      "exp": 930,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94714212650@s.whatsapp.net": {
+      "exp": 506,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "13135550002@s.whatsapp.net": {
+      "exp": 764,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94779681743@s.whatsapp.net": {
+      "exp": 44,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94764601056@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94772601056@s.whatsapp.net": {
+      "exp": 371,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "102972344283209@lid": {
+      "exp": 5,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94705088851@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94776827015@s.whatsapp.net": {
+      "exp": 95,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94726082060@s.whatsapp.net": {
+      "exp": 227,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94762559082@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94711637621@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94719077818@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94757405652@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94712194467@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94704859053@s.whatsapp.net": {
+      "exp": 12,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    }
+  },
+  "chats": {
+    "120363279518973310@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiDelete": false,
+      "antiLink": false,
+      "viewOnce": false,
+      "expired": 0
+    },
+    "120363279359156442@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiDelete": false,
+      "antiLink": false,
+      "viewOnce": false,
+      "expired": 0
+    },
+    "120363152106754397@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiDelete": false,
+      "antiLink": false,
+      "viewOnce": false,
+      "expired": 0
+    },
+    "94712174349-1624950364@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiDelete": false,
+      "antiLink": false,
+      "viewOnce": false,
+      "expired": 0
+    },
+    "120363311302344189@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiDelete": false,
+      "antiLink": false,
+      "viewOnce": false,
+      "expired": 0
+    },
+    "120363156262037679@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiDelete": false,
+      "antiLink": false,
+      "viewOnce": false,
+      "expired": 0
+    },
+    "120363305092995607@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiDelete": false,
+      "antiLink": false,
+      "viewOnce": false,
+      "expired": 0
+    },
+    "120363320018376438@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiDelete": false,
+      "antiLink": false,
+      "viewOnce": false,
+      "expired": 0
+    },
+    "120363205505679104@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiDelete": false,
+      "antiLink": false,
+      "viewOnce": false,
+      "expired": 0
+    }
+  },
+  "stats": {
+    "chem2.js": {
+      "total": 26,
+      "success": 26,
+      "last": 1716271198719,
+      "lastSuccess": 1716271198719
+    },
+    "save.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1716259942317,
+      "lastSuccess": 1716259942317
+    },
+    "group-tag.js": {
+      "total": 22,
+      "success": 21,
+      "last": 1722790937122,
+      "lastSuccess": 1722790937122
+    },
+    "group-jid.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1722714397964,
+      "lastSuccess": 1722714397964
+    },
+    "gemini.js": {
+      "total": 25,
+      "success": 19,
+      "last": 1722717689184,
+      "lastSuccess": 1722717534539
+    },
+    "clear.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1722191272926,
+      "lastSuccess": 1722191272926
+    },
+    "view.js": {
+      "total": 6,
+      "success": 2,
+      "last": 1722716719543,
+      "lastSuccess": 1722708529690
+    },
+    "auto_view.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1722709708549,
+      "lastSuccess": 1722709708549
+    },
+    "tourl.js": {
+      "total": 10,
+      "success": 5,
+      "last": 1722716893702,
+      "lastSuccess": 1722716866956
+    },
+    "sticker.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1722717489087,
+      "lastSuccess": 1722717489087
+    },
+    "id.js": {
+      "total": 15,
+      "success": 12,
+      "last": 1722790491659,
+      "lastSuccess": 1722790491659
+    },
+    "sub.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1722790539292,
+      "lastSuccess": 1722790539292
+    }
+  },
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "94777611095@s.whatsapp.net": {
+      "self": false,
+      "autoread": false,
+      "restrict": false
+    },
+    "94771588281@s.whatsapp.net": {
+      "self": false,
+      "autoread": false,
+      "restrict": false
+    },
+    "94702978512@s.whatsapp.net": {
+      "self": false,
+      "autoread": false,
+      "restrict": false
+    },
+    "19099097889@s.whatsapp.net": {
+      "self": false,
+      "autoread": false,
+      "restrict": false
+    }
+  }
+}
