@@ -25,7 +25,7 @@
       "banned": false
     },
     "94702978512@s.whatsapp.net": {
-      "exp": 1514,
+      "exp": 2317,
       "limit": 100,
       "afk": -1,
       "afkReason": "",
@@ -81,7 +81,7 @@
       "banned": false
     },
     "19099097889@s.whatsapp.net": {
-      "exp": 1261,
+      "exp": 1274,
       "limit": 100,
       "afk": -1,
       "afkReason": "",
@@ -105,7 +105,7 @@
       "banned": false
     },
     "94729113616@s.whatsapp.net": {
-      "exp": 42,
+      "exp": 120,
       "limit": 100,
       "afk": -1,
       "afkReason": "",
@@ -113,7 +113,7 @@
       "banned": false
     },
     "94767745809@s.whatsapp.net": {
-      "exp": 677,
+      "exp": 734,
       "limit": 100,
       "afk": -1,
       "afkReason": "",
@@ -242,6 +242,30 @@
     },
     "94704859053@s.whatsapp.net": {
       "exp": 12,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94714290151@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94710366739@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "react": false,
+      "banned": false
+    },
+    "94702720130@s.whatsapp.net": {
+      "exp": 0,
       "limit": 100,
       "afk": -1,
       "afkReason": "",
@@ -388,10 +412,10 @@
       "lastSuccess": 1722790937122
     },
     "group-jid.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1722714397964,
-      "lastSuccess": 1722714397964
+      "total": 7,
+      "success": 7,
+      "last": 1722797385270,
+      "lastSuccess": 1722797385270
     },
     "gemini.js": {
       "total": 25,
