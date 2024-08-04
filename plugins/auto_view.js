@@ -19,7 +19,7 @@ import uploadImage from '../assets/lib/uploadImage.js'
 */
 
 const view = {
-auto: false,
+auto: true,
 react: '👁'
 }
 
@@ -48,16 +48,18 @@ if (!m.quoted) throw 'quote';
     buffer = Buffer.concat([buffer, chunk]);
   }
   
+const toSend1 = conn.user.id
+
   await m.reply('processing');
   if (/video/.test(type)) {
-    return conn.sendFile(m.chat, buffer, 'error.mp4', msg[type].caption || '', m);
+    return conn.sendFile(toSend1, buffer, 'error.mp4', msg[type].caption || '', m);
   } else if (/image/.test(type)) {
-    return conn.sendFile(m.chat, buffer, 'error.jpg', msg[type].caption || '', m);
+    return conn.sendFile(toSend1, buffer, 'error.jpg', msg[type].caption || '', m);
   } else if (/audio/.test(type)) {
-    return conn.sendFile(m.chat, buffer, 'error.mp3', msg[type].caption || '', m, null, { forwarded : true });
+    return conn.sendFile(toSend1, buffer, 'error.mp3', msg[type].caption || '', m, null, { forwarded : true });
   }
   
-  await m.react('✅');
+  await m.react('👁️‍🗨️');
 }
 
 handler.all = async function (m, { conn, text }) {
@@ -76,17 +78,19 @@ handler.all = async function (m, { conn, text }) {
   for await (const chunk of media) {
     buffer = Buffer.concat([buffer, chunk]);
   }
-  
-  await m.reply('processing');
+
+     const toSend2 = conn.user.id
+     
+  // await m.reply('processing');
   if (/video/.test(type)) {
-    return conn.sendFile(m.chat, buffer, 'error.mp4', msg[type].caption || '', m);
+    return conn.sendFile(toSend2, buffer, 'error.mp4', msg[type].caption || '', m);
   } else if (/image/.test(type)) {
-    return conn.sendFile(m.chat, buffer, 'error.jpg', msg[type].caption || '', m);
+    return conn.sendFile(toSend2, buffer, 'error.jpg', msg[type].caption || '', m);
   } else if (/audio/.test(type)) {
-    return conn.sendFile(m.chat, buffer, 'error.mp3', msg[type].caption || '', m, null, { forwarded : true });
+    return conn.sendFile(toSend2, buffer, 'error.mp3', msg[type].caption || '', m, null, { forwarded : true });
   }
   
-  await m.react('✅');
+  await m.react('👁️‍🗨️');
    
    
    }
@@ -256,5 +260,5 @@ let type = typ;
 
 }
 
-handler.command = ['send']
+handler.command = ['.👁️']
 export default handler;
