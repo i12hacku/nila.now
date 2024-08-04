@@ -45,7 +45,7 @@ const {
 
 const { CONNECTING } = ws
 const { chain } = lodash
-const PORT = process.env.PORT || process.env.SERVER_PORT || 27257
+const PORT = 8000
 
 protoType()
 serialize()
