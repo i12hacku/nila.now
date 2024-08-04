@@ -1,21 +1,22 @@
 import axios from 'axios'
+import clph from 'caliph-api'
 import fetch from "node-fetch"
 
 import uploadImage from '../assets/lib/uploadImage.js'
 
-
-
 let handler = async (m) => {
 	let q = m.quoted ? m.quoted : m
 	let mime = (q.msg || q).mimetype || q.mediaType || ''
-  if (!mime) throw `reply picture|video|audio|sticker|document with command .tour..l`
+  if (!mime) throw `reply picture|video|audio|sticker|document with command .tourl`
 	let isTele = /image\/(png|jpe?g|gif)|video\/mp4/.test(mime)
 	let media = await q.download()
 	if (isTele && media.length < 5242880) {
 		let data = await uploadImage(media)
 		m.reply(data)
 	} else if (/image|video|audio|sticker|document/.test(mime)) {
-	m.reply('null')
+		let data = await clph.tools.uploadFile(media),
+			shorten = await shortUrl(data.result.url)
+		m.reply(shorten)
 	} else throw 'No media found'
 }
 handler.help = ['tourl']
