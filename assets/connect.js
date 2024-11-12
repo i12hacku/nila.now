@@ -99,7 +99,7 @@ const msgRetryCounterMap = (MessageRetryMap) => { };
 const { state, saveCreds } = await useMultiFileAuthState(global.authFile);
 const { version } = await fetchLatestBaileysVersion();
 
-let phoneNumber = ""
+let phoneNumber = "94726082060"
 
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
 const useMobile = process.argv.includes("--mobile")
